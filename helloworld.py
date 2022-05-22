@@ -69,7 +69,7 @@ def main():
     print("Sorry Invalid Input\n")
 
   Repeat = input("Would you like to run again? Type Y or y to continue: ")
-  if Repeat == "Y" | "y":
+  if Repeat == "Yes" :
     print("\nHello again!\n\n")
     main()
   else:
